@@ -1,6 +1,6 @@
 cask "quikanva" do
-  version "0.4.0"
-  sha256 "9c5312de06dbf6cd8e5d62f3394bca1372c27b3aed102e5fab52d42718d981ee"
+  version "0.4.1"
+  sha256 "8ea796faac606c02e546ec9181ec2d499d9040a16a2da304489c385a70f84cc1"
 
   url "https://github.com/mikr13/quikanva/releases/download/v#{version}/Quikanva-#{version}.zip"
   name "Quikanva"
